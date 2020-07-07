@@ -1,0 +1,18 @@
+{
+  "name": "amazon-scrpper",
+  "version": "1.0.0",
+  "description": "scrapping mobile data from amazon.in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrapping",
+    "nodejs"
+  ],
+  "author": "deepak yadav",
+  "license": "ISC",
+  "dependencies": {
+    "x-ray": "^2.3.4"
+  }
+}
